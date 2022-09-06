@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.073c9b0a.css",
-    "main.js": "/static/js/main.ee2fb3bd.js",
-    "static/js/787.c4e7f8f9.chunk.js": "/static/js/787.c4e7f8f9.chunk.js",
-    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/index.html",
-    "main.073c9b0a.css.map": "/static/css/main.073c9b0a.css.map",
-    "main.ee2fb3bd.js.map": "/static/js/main.ee2fb3bd.js.map",
-    "787.c4e7f8f9.chunk.js.map": "/static/js/787.c4e7f8f9.chunk.js.map"
+    "main.css": "/trailynne.org/trailynne/static/css/main.073c9b0a.css",
+    "main.js": "/trailynne.org/trailynne/static/js/main.bc5c8b59.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/trailynne.org/trailynne/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logo.svg": "/trailynne.org/trailynne/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/trailynne.org/trailynne/index.html",
+    "main.073c9b0a.css.map": "/trailynne.org/trailynne/static/css/main.073c9b0a.css.map",
+    "main.bc5c8b59.js.map": "/trailynne.org/trailynne/static/js/main.bc5c8b59.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/trailynne.org/trailynne/static/js/787.c4e7f8f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.ee2fb3bd.js"
+    "static/js/main.bc5c8b59.js"
   ]
 }

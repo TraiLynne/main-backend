@@ -1,1 +1,3 @@
-# Trai Lynne's New Personal Site is officially under construction
+# Trai Lynne's New Personal Brand Site is officially under construction
+
+- www.TraiLynne.com
